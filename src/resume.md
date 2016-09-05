@@ -6,7 +6,7 @@ Dan Porter
 56 Hawthorne Court                                             dpreid@gmail.com
 Bangor                                                        + 44 7859 295 943
 Co. Down                                              linkedin.com/in/stealthii
-BT20 3HR                                                    Twitter: @stealthii
+BT20 3HR                                                   github.com/stealthii
 --------------------                              -----------------------------
 
 
