@@ -17,22 +17,29 @@ Experience
 
 *November 2014 - October 2016 (2 years)*
 
-My main role at rehabstudio was as a Backend Web Developer, writing web services and APIs mainly in Python:
+My main role at rehabstudio was as a Backend Web Developer, writing web
+services and APIs mainly in Python:
 
 * Strong experience with Python web frameworks such as Django, Flask, webapp2
 
-* REST API design, including integration / translation with SOAP API services (Adwords API, etc.)
+* REST API design, including integration / translation with SOAP API services
+  (Adwords API, etc.)
 
-I was also responsible for DevOps in the company, including writing and maintaining toolsets, deployment and automated test setups:
+As well as development I was responsible for other DevOps, including writing
+and maintaining toolsets, deployment and automated test setups:
 
-* Heave use of Docker, Compose and Make for automated dev run/test/deployment
+* Heavy use of Docker, Compose and Make for automated dev run/test/deployment
   setups that would run across many platforms
 
 * Experience with various deployment targets, including Google AppEngine &
   Container Engine, Amazon Web Services (EC2 and static sites with S3 &
   Cloudfront)
 
-* Management of Git, Jira, and Stash workflows (Gitflow, Agile Development, Peer Review)
+* Management of Git, Jira, and Stash workflows (Gitflow, Agile Development,
+  Peer Review)
+
+* Use and management of automated CI tools (Travis CI, Jenkins, Buildbot,
+  CircleCI)
 
 
 **Intercontinental Exchange (formerly NYSE Euronext)** - Graduate Software
@@ -40,20 +47,29 @@ Engineer
 
 *June 2013 - October 2014 (1 year 5 months)*
 
-C++ and Python developer for the Global Market Data Engineering group. I worked on various products that provided low latency, synthetic data feeds, as well as writing market data feed handlers, volume calculators, etc.
+C++ and Python developer for the Global Market Data Engineering group. I
+worked on various products that provided low latency, synthetic data feeds, as
+well as writing market data feed handlers, volume calculators, etc.
 
-I also wrote a stack of Python development tools using coroutines for handling various market data formats, acting as recorders, readers and publishers. I also wrote a replacement for an archaic C++ web application, using a modern Flask implementation written in Python.
+I also wrote a stack of Python development tools using coroutines for handling
+various market data formats, acting as recorders, readers and publishers. I
+also wrote a replacement for an archaic C++ web application, using a modern
+Flask implementation written in Python.
 
 
 **CloudOpt Incorporated** - Development Engineer
 
 *June 2012 - November 2012 (6 months)*
 
-A startup company from Seattle based in Belfast, CloudOpt developed a cloud optimisation solution that incorporated data de-duplication and data compression to transparently accelerate data transfer speeds for customers systems between their offices and the cloud.
+A startup company from Seattle based in Belfast, CloudOpt developed a cloud
+optimisation solution that incorporated data de-duplication and data
+compression to transparently accelerate data transfer speeds for customers
+systems between their offices and the cloud.
 
 Over the 6 months I worked on many different projects, including:
 
-* Reorganization and maintenance of their Jenkins continuous integration system
+* Reorganization and maintenance of their Jenkins continuous integration
+  system
 
 * Development of a Linux Live-CD to show off the end product to customers
 
@@ -64,29 +80,43 @@ Over the 6 months I worked on many different projects, including:
 
 *June 2011 - June 2012 (1 year 1 month)*
 
-I worked for a year for the Elements Software Group – a division of Pace plc. that delivers TV media head-end, middleware and UI components. Over the year I did the preliminary work, development, and maintenance of many systems now in permanent use by the team, including:
+I worked for a year for the Elements Software Group – a division of Pace plc.
+that delivers TV media head-end, middleware and UI components. Over the year I
+did the preliminary work, development, and maintenance of many systems now in
+permanent use by the team, including:
 
 * Development of advanced continuous integration solution with BuildBot
 
-* Writing RPM-based distribution management tools, including managing a Linux distribution, release cycles, software maintenance and testing
+* Writing RPM-based distribution management tools, including managing a Linux
+  distribution, release cycles, software maintenance and testing
 
-* Development of a modular automated testing framework, implementing unit tests, system testing, and full designer test runs, with graphical reporting tools
+* Development of a modular automated testing framework, implementing unit
+  tests, system testing, and full designer test runs, with graphical reporting
+  tools
 
-* Integration of the above systems as an end-to-end development/test/deployment solution
+* Integration of the above systems as an end-to-end
+  development/test/deployment solution
 
 
 **McDonald's Corporation** - Crew Member
 
 *June 2006 - August 2009 (3 year 3 months)*
 
-I worked as a McDonald's employee for 3 years. I learnt many valuable skills in my time working there. From working in a team, to meeting demand, organising a working shift to be most optimal, to dealing with customer complaints and enquiries.
+I worked as a McDonald's employee for 3 years. I learnt many valuable skills
+in my time working there. From working in a team, to meeting demand,
+organising a working shift to be most optimal, to dealing with customer
+complaints and enquiries.
 
 
 **University of Ulster** - IT Support
 
 *February 2007 (1 month)*
 
-I worked under an IT Support staff role at the University of Ulster for a week in my lower sixth year. I experienced many different areas of work that the IT support team did, from fixing printer jams, to managing databases, imaging labs of systems, and migrating users from a Novell Netware network to the replacement Active Directory network.
+I worked under an IT Support staff role at the University of Ulster for a week
+in my lower sixth year. I experienced many different areas of work that the IT
+support team did, from fixing printer jams, to managing databases, imaging
+labs of systems, and migrating users from a Novell Netware network to the
+replacement Active Directory network.
 
 
 Technical Experience
