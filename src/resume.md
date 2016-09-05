@@ -126,8 +126,8 @@ Open Source
     * [requests], a common Python library for HTTP communications, I added
       support to work under Google AppEngine's restricted Python environment
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
+Development Languages & Technologies
+:   **Python:** Here, we have an itemization, where we only want
     to add descriptions to the first few items, but still want to
     mention some others together at the end. A format that works well
     here is a description list where the first few items have their
@@ -135,15 +135,16 @@ Programming Languages
     emphasized terms. Notice the reasonably nice page break in the pdf
     version, which wouldn't happen if we generated the pdf via html.
 
-:   **second-lang:** Description of your experience with second-lang,
+:   **Docker:** Description of your experience with second-lang,
     perhaps again including a [link] [ref], this time placing the url
     reference elsewhere in the document to reduce clutter (see source
-    file). 
+    file).
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+:   Good knowledge of **Bash**, **C**, **Make**, **JSON**, **YAML**
+
+:   Basic knowledge of **C++**, **Go**, **68k assembly**, **Perl**, **BBC Basic,
+    Yabasic**, **COBOL**
 
 [qcacher]: https://github.com/Q-Con/qcacher
 [pioq3]: https://github.com/Q-Con/pioq3
