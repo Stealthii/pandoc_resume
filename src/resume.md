@@ -117,11 +117,14 @@ Open Source
       [ioquake3]'s codebase
     * Patches to the [Git] project for improved support of [Perforce]
       repositories
-    List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+    * [Discourse], a discussion platform written in Rails and Express.js. I've
+      provided various patches to improve the Docker setup, including better
+      HTTPS support, production environments, and plugins
+    * [epnyx], a personal RPM repository for providing modern versions of
+      various dev tools and support libraries for running on legacy Enterprise
+      Linux environments
+    * [requests], a common Python library for HTTP communications, I added
+      support to work under Google AppEngine's restricted Python environment
 
 Programming Languages
 :   **first-lang:** Here, we have an itemization, where we only want
@@ -146,21 +149,96 @@ Programming Languages
 [pioq3]: https://github.com/Q-Con/pioq3
 [ioquake3]: https://ioquake3.org/
 [git]: https://git-scm.com/
-[ref]: https://github.com/githubuser/superlongprojectname
+[perforce]: https://www.perforce.com/
+[discourse]: https://www.discourse.org/
+[epnyx]: https://github.com/Stealthii/epnyx
+[requests]: http://docs.python-requests.org/
 
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+Non-Professional Experience
+---------------------------
 
-* Human Languages:
+**Q-Con Anime & Gaming Convention** - Tech Team Co-ordinator
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+*June 2012 - Present*
 
-* Random tidbit
+Each year I work as the co-ordinator and manager of the tech team at Q-Con.
 
-* Other sort of impressive-sounding thing you did
+Q-Con is a gaming and anime convention that happens yearly in Belfast. Some of
+the events include anime, video gaming, eSports, etc. Some of my co-ordinator
+responsibilities include:
+
+* Network design and provisioning (pfSense, CARP, STP, VLANs, PtP WiFi)
+
+* Distributed guest and management WiFi (Ubiquiti UniFi, AngularJS portal)
+
+* Network and services monitoring and stability (OpenNMS, Slackbot)
+
+* Gaming and Management service provisioning (Xen/VMware, Docker, Ansible)
+
+* eSports Machine system design and imaging (Clonezilla SE, Windows Deployment
+  Services)
+
+As a manager I was also in charge of a team of 4 people, providing tactics and
+support to ensure everyone was utilised to their potential and that resource
+was managed effectively
+
+* Correlating prep-week and weekend tasks with people's strengths
+
+* Writing up checklists for pre-event perparation, checks, and teardown
+
+
+**Farset Labs** - Digital Infrastructure Manager
+
+*April 2012 - Present*
+
+Farset Labs is a not-for-profit hackerspace in Weavers Court, Belfast. Since
+Farset opened I've been responsible for design and maintenance of the internal
+network, on-site services, and remote services.
+
+Typical responsibilities include member hosting provisions, service deployment
+and uptime monitoring, backups, and network design.
+
+
+**Mixvibes**
+
+*2010 - 2014*
+
+A DJ software company based in France. I provided technical feedback on
+development builds of their flagship product, both software and hardware. I
+assisted with a side project to benefit Linux development – creating a
+lightweight, audio-centric linux distribution to help bring CROSS software to
+the emerging netbook market.
+
+
+**Softmii Development Team**
+
+*2009 - 2010*
+
+A Wii dev group that worked on homebrew software development, I worked on USB
+mass storage support and IOS emulation. I also developed and maintained their
+website. This was a high load website, with thousands of unique users per day.
+I gained experience with high availability, Postgres database replication,
+dynamic content caching, Squid proxying, and many areas of web server
+administration and backup.
+
+**ZDaemon Development Team**
+
+*2004 - 2009*
+
+From 2004 I worked with the ZDaemon development team – an online multiplayer
+Doom source port. Apart from providing technical support, reviewing code
+submissions and feedback I worked on many side projects for the group:
+
+* Developed a server management tool for Linux servers to facilitate
+  configuration rotation, remote administration, advanced logging information
+  and multiple user support
+
+* Ported code from a newer code base to fix bugs and facilitate development on
+  newer features and multi-platform support
+
+* Worked on compiler specific issues in the client, allowing compilation on
+  gcc, facilitating future Linux & OSX ports
 
 
 Education
