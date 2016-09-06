@@ -136,6 +136,8 @@ Technical Experience
     * Studied CDN structure and capabilities of 8 distinct providers, to
       tailor features and functionality to best suit both the content
       provider's limitations, and maximise efficiency with connected clients
+    * High performance configurations including tweaking of Linux systems (VFS
+      cache, NCQ, swapiness, writeback, CFQ/noop)
 
 
 Open Source
@@ -157,23 +159,31 @@ Open Source
       support to work under Google AppEngine's restricted Python environment
 
 Development Languages & Technologies
-:   **Python:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+:   **Python:** My predominant language under professional and hobby use
 
-:   **Docker:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file).
+    * Written high-performance binary data feed processors, using
+      co-routines and structs
+    * Heavy use in web-driven development, using web frameworks such as
+      Django, Flask, webapp2
+    * Notable scripting and processor experience, including log processing /
+      monitoring, automation
+    * Experience with continuous integration using the Buildbot framework
+    * Worked with WebSockets under Flask
 
+:   **Docker:** The main containerisation technology I have worked with
+
+    * Experience with writing Docker images for running software, with bases
+      including Debian, Ubuntu, Alpine Linux, or from scratch
+    * Experience with Docker Compose for configuring simple and complex dev
+      environments, and project skeletons
+    * Experience with production Docker environments, such as CoreOS,
+      Kubernetes, [oneill], and [Deis]
+
+:   Virtualization platforms, including XenServer and VMware
 
 :   Good knowledge of **Bash**, **C**, **Make**, **JSON**, **YAML**
 
-:   Basic knowledge of **C++**, **Go**, **68k assembly**, **Perl**, **BBC Basic,
+:   Basic knowledge of **Node.js**, **C++**, **Go**, **68k assembly**, **Perl**, **BBC Basic,
     Yabasic**, **COBOL**
 
 [qcacher]: https://github.com/Q-Con/qcacher
@@ -184,6 +194,8 @@ Development Languages & Technologies
 [discourse]: https://www.discourse.org/
 [epnyx]: https://github.com/Stealthii/epnyx
 [requests]: http://docs.python-requests.org/
+[oneill]: https://github.com/rehabstudio/oneill
+[deis]: http://deis.io/
 
 
 Non-Professional Experience
